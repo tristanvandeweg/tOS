@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "TrisCalc_2004Displaydriver",
+			"path": "TrisCalc_2004Displaydriver"
+		},
+		{
+			"name": "TrisCalc_ESPCPU",
+			"path": "TrisCalc_ESPCPU"
+		},
+		{
+			"name": "TrisCalc_TFT-GPU",
+			"path": "TrisCalc_TFT-GPU"
+		},
+		{
+			"name": "TrisCalc",
+			"path": "."
+		}
+	],
+	"settings": {
+		"idf.port": "/dev/ttyUSB0",
+		"files.associations": {
+			"uart.h": "c"
+		}
+	}
+}

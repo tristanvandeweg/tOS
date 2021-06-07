@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Functional schematic.svg">
+  <defs
+     id="defs2">
+    <symbol
+       id="LeftAndDownArrow">
+      <title
+         id="title2252">Left and Down Arrow</title>
+      <path
+         d="M 4.2664062,14.783594 V 6.3169271 L 7.1768229,3.4065104 v 6.35 L 13.26224,3.6710937 15.378906,5.7877604 9.2934896,11.873177 H 15.64349 l -2.910417,2.910417 z"
+         style="stroke:none;stroke-width:0.264583"
+         id="path2254" />
+    </symbol>
+    <symbol
+       id="ForwardAndRightArrow">
+      <title
+         id="title2204">Forward and Right Arrow</title>
+      <path
+         d="M 14.816667,4.2333333 V 12.7 L 11.90625,15.610417 V 9.2604167 L 5.8208333,15.345833 3.7041667,13.229167 9.7895833,7.14375 h -6.35 L 6.35,4.2333333 Z"
+         style="stroke:none;stroke-width:0.264583"
+         id="path2206" />
+    </symbol>
+    <symbol
+       id="UpArrow">
+      <title
+         id="title2216">Up Arrow</title>
+      <path
+         d="m 9.525,2.38125 5.820833,5.8208333 V 12.170833 L 11.1125,7.9375 v 8.466667 H 7.9375 V 7.9375 L 3.7041667,12.170833 V 8.2020833 Z"
+         style="stroke:none;stroke-width:0.264583"
+         id="path2218" />
+    </symbol>
+    <symbol
+       id="DownArrow">
+      <title
+         id="title2264">Down Arrow</title>
+      <path
+         d="M 9.525,16.66875 3.7041667,10.847917 V 6.8791667 L 7.9375,11.1125 V 2.6458333 h 3.175 V 11.1125 l 4.233333,-4.2333333 v 3.9687503 z"
+         style="stroke:none;stroke-width:0.264583"
+         id="path2266" />
+    </symbol>
+    <symbol
+       id="ForwardAndLeftArrow">
+      <title
+         id="title2228">Forward and Left Arrow</title>
+      <path
+         d="M 4.2333333,4.2333333 H 12.7 L 15.610417,7.14375 H 9.2604167 L 15.345833,13.229167 13.229167,15.345833 7.14375,9.2604167 V 15.610417 L 4.2333333,12.7 Z"
+         style="stroke:none;stroke-width:0.264583"
+         id="path2230" />
+    </symbol>
+    <symbol
+       id="RightAndDownArrow">
+      <title
+         id="title2276">Right and Down Arrow</title>
+      <path
+         d="M 14.816667,14.816667 H 6.35 L 3.4395833,11.90625 h 6.35 L 3.7041667,5.8208333 5.8208333,3.7041667 11.90625,9.7895833 v -6.35 L 14.816667,6.35 Z"
+         style="stroke:none;stroke-width:0.264583"
+         id="path2278" />
+    </symbol>
+    <symbol
+       id="LeftArrow">
+      <title
+         id="title2240">Left Arrow</title>
+      <path
+         d="M 2.38125,9.525 8.2020833,3.7041667 H 12.170833 L 7.9375,7.9375 h 8.466667 v 3.175 H 7.9375 l 4.233333,4.233333 H 8.2020833 Z"
+         style="stroke:none;stroke-width:0.264583"
+         id="path2242" />
+    </symbol>
+    <symbol
+       id="RightArrow">
+      <title
+         id="title2192">Right Arrow</title>
+      <path
+         d="m 16.66875,9.525 -5.820833,5.820833 H 6.8791667 L 11.1125,11.1125 H 2.6458333 V 7.9375 H 11.1125 L 6.8791667,3.7041667 h 3.9687503 z"
+         style="stroke:none;stroke-width:0.264583"
+         id="path2194" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="394.48837"
+     inkscape:cy="473.43065"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect833"
+       width="50.285431"
+       height="25.602301"
+       x="73.050835"
+       y="102.63985" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="81.017677"
+       y="119.39491"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="81.017677"
+         y="119.39491"
+         style="stroke-width:0.264583">ESP32</tspan><tspan
+         sodipodi:role="line"
+         x="81.017677"
+         y="132.62404"
+         style="stroke-width:0.264583"
+         id="tspan839" /></text>
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.283133"
+       id="rect841"
+       width="75.806648"
+       height="19.510283"
+       x="124.77512"
+       y="65.399841" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="126.85642"
+       y="78.243652"
+       id="text845"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="126.85642"
+         y="78.243652"
+         style="stroke-width:0.264583">ATMEGA328P</tspan><tspan
+         sodipodi:role="line"
+         x="126.85642"
+         y="91.472778"
+         style="stroke-width:0.264583"
+         id="tspan847" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 137.36513,85.631871 Z"
+       id="path853" />
+    <use
+       xlink:href="#LeftAndDownArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use4871"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.99999849,0,0,1.0000001,106.91648,82.215943)" />
+    <use
+       xlink:href="#ForwardAndRightArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use4896"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(118.85578,80.859954)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.27724px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.181932"
+       x="111.19972"
+       y="103.1146"
+       id="text4912"
+       transform="scale(1.0072747,0.99277784)"
+       inkscape:transform-center-x="-10.434618"
+       inkscape:transform-center-y="-5.3107708"><tspan
+         sodipodi:role="line"
+         id="tspan4910"
+         x="111.19972"
+         y="103.1146"
+         style="stroke-width:0.181932">UART</tspan></text>
+    <use
+       xlink:href="#UpArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use4925"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(153.06459,46.851387)"
+       inkscape:transform-center-x="-19.249503"
+       inkscape:transform-center-y="-6.9985554" />
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect4957"
+       width="84.925499"
+       height="26.307116"
+       x="120.89014"
+       y="19.945246" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="138.73868"
+       y="36.867195"
+       id="text4961"><tspan
+         sodipodi:role="line"
+         id="tspan4959"
+         x="138.73868"
+         y="36.867195"
+         style="stroke-width:0.264583">20x4 LCD</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.272912"
+       id="rect4963"
+       width="70.328682"
+       height="17.974613"
+       x="26.287704"
+       y="64.337799" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.111187"
+       y="76.584747"
+       id="text4969"><tspan
+         sodipodi:role="line"
+         id="tspan4967"
+         x="28.111187"
+         y="76.584747"
+         style="stroke-width:0.264583">ATMEGA16A</tspan></text>
+    <use
+       xlink:href="#DownArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use4995"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(49.741667,45.376042)" />
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect5009"
+       width="71.297264"
+       height="25.214441"
+       x="25.331125"
+       y="21.69383" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.181057"
+       y="36.768265"
+       id="text5013"><tspan
+         sodipodi:role="line"
+         id="tspan5011"
+         x="35.181057"
+         y="36.768265"
+         style="stroke-width:0.264583">Keypad</tspan></text>
+    <use
+       xlink:href="#ForwardAndLeftArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5026"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(65.990739,81.205484)" />
+    <use
+       xlink:href="#RightAndDownArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5051"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(77.896989,82.528401)" />
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect5065"
+       width="32.10577"
+       height="18.688879"
+       x="9.4804049"
+       y="108.58631" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.170565"
+       y="121.18094"
+       id="text5069"><tspan
+         sodipodi:role="line"
+         id="tspan5067"
+         x="16.170565"
+         y="121.18094"
+         style="stroke-width:0.264583">SD</tspan></text>
+    <use
+       xlink:href="#LeftArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5082"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(39.925405,106.63756)" />
+    <use
+       xlink:href="#RightArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5107"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(53.683739,106.63756)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.53929px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.163483"
+       x="48.086082"
+       y="131.51202"
+       id="text5123"
+       transform="scale(1.0525538,0.9500702)"><tspan
+         sodipodi:role="line"
+         id="tspan5121"
+         x="48.086082"
+         y="131.51202"
+         style="stroke-width:0.163483">SPI</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect5125"
+       width="45.651283"
+       height="28.497477"
+       x="163.52432"
+       y="104.49724" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="163.75606"
+       y="121.14128"
+       id="text5129"><tspan
+         sodipodi:role="line"
+         id="tspan5127"
+         x="163.75606"
+         y="121.14128"
+         style="stroke-width:0.264583">I/O Ports</tspan></text>
+    <use
+       xlink:href="#LeftArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5142"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(127.11982,107.11034)" />
+    <use
+       xlink:href="#RightArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5164"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(140.87815,107.11034)" />
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect5175"
+       width="69.775375"
+       height="28.836191"
+       x="126.20578"
+       y="151.15639" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.03741"
+       y="165.00104"
+       id="text5179"><tspan
+         sodipodi:role="line"
+         id="tspan5177"
+         x="134.03741"
+         y="165.00104"
+         style="stroke-width:0.264583">Expansion</tspan><tspan
+         sodipodi:role="line"
+         x="134.03741"
+         y="178.23016"
+         style="stroke-width:0.264583"
+         id="tspan5181">slot</tspan></text>
+    <use
+       xlink:href="#RightAndDownArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5194"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(124.74715,130.49325)" />
+    <use
+       xlink:href="#ForwardAndLeftArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5216"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(112.8409,129.17033)" />
+    <use
+       xlink:href="#RightArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5282"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(226.35104,108.74375)" />
+    <use
+       xlink:href="#LeftArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5304"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(212.59271,108.74375)" />
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect5315"
+       width="52.25705"
+       height="27.337177"
+       x="247.69043"
+       y="102.97163" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="252.9624"
+       y="113.82521"
+       id="text5319"><tspan
+         sodipodi:role="line"
+         x="252.9624"
+         y="113.82521"
+         style="stroke-width:0.264583"
+         id="tspan5321">Sensors/</tspan><tspan
+         sodipodi:role="line"
+         x="252.9624"
+         y="127.05434"
+         style="stroke-width:0.264583"
+         id="tspan5325">I/O</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect5327"
+       width="32.856224"
+       height="15.917924"
+       x="29.119045"
+       y="135.07158" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.041893"
+       y="147.0007"
+       id="text5331"><tspan
+         sodipodi:role="line"
+         id="tspan5329"
+         x="35.041893"
+         y="147.0007"
+         style="stroke-width:0.264583">RTC</tspan></text>
+    <use
+       xlink:href="#ForwardAndRightArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5344"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(58.234168,124.00881)" />
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect5357"
+       width="48.460964"
+       height="21.761768"
+       x="19.285175"
+       y="158.08189" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.99968px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.249993"
+       x="21.284594"
+       y="168.57272"
+       id="text5361"
+       transform="scale(1.0153503,0.98488177)"><tspan
+         sodipodi:role="line"
+         id="tspan5359"
+         x="21.284594"
+         y="168.57272"
+         style="stroke-width:0.249993">Arduino</tspan><tspan
+         sodipodi:role="line"
+         x="21.284594"
+         y="181.07233"
+         style="stroke-width:0.249993"
+         id="tspan5363">UNO</tspan></text>
+    <use
+       xlink:href="#LeftAndDownArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5376"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(63.479733,143.2983)" />
+    <use
+       xlink:href="#ForwardAndRightArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5420"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(66.700835,132.47548)" />
+    <use
+       xlink:href="#DownArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5442"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(22.772657,176.93365)" />
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.264583"
+       id="rect5453"
+       width="60.029305"
+       height="36.264015"
+       x="14.929038"
+       y="194.5598" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.063547"
+       y="215.58188"
+       id="text5457"><tspan
+         sodipodi:role="line"
+         id="tspan5455"
+         x="23.063547"
+         y="215.58188"
+         style="stroke-width:0.264583">TFT LCD</tspan></text>
+    <use
+       xlink:href="#RightArrow"
+       style="fill:#000000;stroke:#000000"
+       id="use5470"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(49.714989,94.995894)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.89388px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.122347"
+       x="39.47068"
+       y="94.097618"
+       id="text5483"
+       transform="scale(0.91851486,1.088714)"><tspan
+         sodipodi:role="line"
+         id="tspan5481"
+         x="39.47068"
+         y="94.097618"
+         style="stroke-width:0.122347">Programs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.59705px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.189927"
+       x="68.331017"
+       y="111.64639"
+       id="text5487"
+       transform="scale(1.0899793,0.91744863)"><tspan
+         sodipodi:role="line"
+         id="tspan5485"
+         x="68.331017"
+         y="111.64639"
+         style="stroke-width:0.189927">SPI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.78166px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.169542"
+       x="70.11377"
+       y="168.25551"
+       id="text5491"
+       transform="scale(1.0839952,0.92251331)"><tspan
+         sodipodi:role="line"
+         id="tspan5489"
+         x="70.11377"
+         y="168.25551"
+         style="stroke-width:0.169542">SPI</tspan></text>
+  </g>
+</svg>

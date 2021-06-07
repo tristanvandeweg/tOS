@@ -1,0 +1,9 @@
+m<number> - Switch to menu
+e - Confirm input / Enter
+C - Clear screen
+c<input> - Type input
+u - Go up in menu
+d - Go down in menu
+s<number> - Scroll to position
+t<str4x4> - Set menu tabs
+o<num1><num2><str> - set tab <num1> option <num2> for custom menu to <str>
